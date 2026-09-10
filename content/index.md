@@ -10,6 +10,7 @@ I'm a senior studying Computer Science at Purdue University. I sometimes make so
 	b. [Meguro](https://github.com/JDY-exe/meguro), a system to help you avoid synform confusion
 	c. More coming soon...
 4. [Adachi](https://github.com/JDY-exe/Adachi), an Android app that implements more draconian screen-time controls
+5. [gal](https://gal.yuan.tokyo/), a Gallery of my liked twitter posts, which I used for reference when drawing
 
 ## Currently interested in[^1]
 1. Drawing/painting
