@@ -12,9 +12,11 @@ I'm a senior studying Computer Science at Purdue University. I sometimes make so
 4. [Adachi](https://github.com/JDY-exe/Adachi), an Android app that implements more draconian screen-time controls
 5. [gal](https://gal.yuan.tokyo/), a Gallery of my liked twitter posts, which I used for reference when drawing
 
+Check out my [book log!](book-log.md)
+
 ## Currently interested in[^1]
 1. Drawing/painting
-2. Japanese learning (if you couldn't tell)
+2. Japanese learning, and as a result, reading
 3. Solo travelling
 4. Various nifty hardware[^2]
 
