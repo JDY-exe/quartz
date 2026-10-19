@@ -42,15 +42,15 @@ Alienware AW3425DW (34in 240Hz 1440p OLED)
 MSI Optix G273 (27in 120hz 1080p)
 
 ### Cost breakdown
-Computers: 2,000 + 1,400 + 150 + 1,500 = ~$5050
-Audio: 350 + 220 + 380 + 50 = ~$1000
-Peripherals: 180 + 120 + 250 + 100 + 350 = ~$1000
-Stationery: 6000JPY + $90 + $20x3 + rest negligible = ~$200
-Monitors: $700 + $200 = ~$900
-Boox tablet: Used off ebay for ~$500
+- Computers: 2,000 + 1,400 + 150 + 1,500 = ~\$5050
+- Audio: 350 + 220 + 380 + 50 = ~\$1000
+- Peripherals: 180 + 120 + 250 + 100 + 350 = ~\$1000
+- Stationery: 6000JPY + \$90 + \$20x3 + rest negligible = ~\$200
+- Monitors: \$700 + \$200 = ~\$900
+- Boox tablet: Used off ebay for ~\$500
 
-[^1] Replaced cables with linsoul cables off amazon
-[^2] I don't really use all this stationery anymore. My work is mostly digital nowadays, and I won't have to take paper exams for much longer. I plan on making all my expensive stationery a family heirloom or giving them to someone who actually needs to write :)
-[^3]This is probably my favorite pencil for writing. Its thin enough to write Japanese characters
-[^4] I like this pen because it can write, draft and draw at the same time :)
-[^5]I think I'm gonna sell this. I no longer have any use for it as I don't take notes in class or read as much on e-ink anymore. It was an incredibly cool device but very gimmicky and outside of academics, I don't think there is a use case for it. 
+[^1]: Replaced cables with linsoul cables off amazon
+[^2]: I don't really use all this stationery anymore. My work is mostly digital nowadays, and I won't have to take paper exams for much longer. I plan on making all my expensive stationery a family heirloom or giving them to someone who actually needs to write :)
+[^3]: This is probably my favorite pencil for writing. Its thin enough to write Japanese characters
+[^4]: I like this pen because it can write, draft and draw at the same time :)
+[^5]: I think I'm gonna sell this. I no longer have any use for it as I don't take notes in class or read as much on e-ink anymore. It was an incredibly cool device but very gimmicky and outside of academics, I don't think there is a use case for it.

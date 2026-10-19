@@ -1,6 +1,32 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Show Explorer as a plain, always-visible list of page links.
+.explorer {
+  & > button.explorer-toggle {
+    display: none;
+  }
+
+  &,
+  &.collapsed {
+    flex: 0 1 auto;
+    height: auto;
+    order: initial;
+  }
+
+  & > .explorer-content,
+  &.collapsed > .explorer-content {
+    position: static;
+    width: auto;
+    max-width: none;
+    height: auto;
+    max-height: none;
+    margin-top: 0;
+    padding: 0;
+    transform: none;
+    visibility: visible;
+    transition: none;
+  }
+}
 
 body[data-slug$="book-log" i] .table-container {
   > table {
